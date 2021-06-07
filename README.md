@@ -1,1 +1,1 @@
-![Grey Joyner Github Readme](./Github-Readme-Image.png)
+![Grey Joyner Github Readme](./Github-Readme-Img.png)
